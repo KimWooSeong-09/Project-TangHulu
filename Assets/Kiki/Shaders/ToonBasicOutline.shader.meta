@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9ce107479d11178d11005b9844295342
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185812
+  packageName: Anime X-mas Girl
+  packageVersion: 1.1
+  assetPath: Assets/Kiki/Shaders/ToonBasicOutline.shader
+  uploadId: 425864
